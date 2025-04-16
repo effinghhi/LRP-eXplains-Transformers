@@ -1,8 +1,8 @@
 import torch
 import torch.nn as nn
 import inspect
-import lxt.functional as lf
-import lxt.special as ls
+import lxt.explicit.functional as lf
+import lxt.explicit.special as ls
 import torch.fx
 
 

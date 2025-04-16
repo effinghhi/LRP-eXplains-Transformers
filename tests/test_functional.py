@@ -1,6 +1,6 @@
 import pytest
 import torch
-import lxt.functional as lf
+import lxt.explicit.functional as lf
 from torch.nn import functional as F
 import torch.nn as nn
 
